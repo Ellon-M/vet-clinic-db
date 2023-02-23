@@ -110,14 +110,13 @@ Example commands:
   git clone https://github.com/Ellon-M/vet-clinic-db.git
 ```
 
-### Usage
-
-To run the project, execute the following command:
 
 
 Example command:
 
-```mysql source queries.sql
+```sh
+  cd my-folder
+  mysql source queries.sql
 ```
 
 <!-- AUTHORS -->
